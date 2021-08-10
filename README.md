@@ -1,5 +1,8 @@
 # Web-Design-Challenge
 
+Allows the user to toggle through data for weather from a 500+ worldwide cities dataset to see patterns in several categories.  
+
+
 ### Files used for Webpage
 -Cloudiness.html.  
 -compare.html.  
